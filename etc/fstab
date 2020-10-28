@@ -1,0 +1,4 @@
+/dev/system / ext4 defaults,noatime,nodiratime,commit=600,errors=remount-ro 0 1
+/dev/boot /boot vfat defaults 0 2
+tmpfs /tmp tmpfs defaults,nosuid 0 0
+LABEL=272440 /mnts  auto   defaults   0 0
