@@ -37,7 +37,7 @@ cd /root
 
 rm -rf /root/-TTarm32-main&&
 
-echo -e "\033[31m 恭喜，甜糖已经成功启动！新人填写甜糖邀请码：272440即可获得15张加成卡。你的支持是我的动力---@PJ小宇 \033[1m"
-echo "Congratulations, Tiantang has been started successfully! New people fill in Tiantang invitation code: 272440 can get 15 bonus cards. Your support is my driving force----@PJxiaoyu"
-echo "QQ:898811295"
+echo -e "\033[31m  恭喜你，甜糖已经成功启动！新人填写甜糖邀请码：272440即可获得15张加成卡。你的支持是我的动力---@PJ小宇 \033[1m"
+echo "   Congratulations, Tiantang has been started successfully! New people fill in Tiantang invitation code: 272440 can get 15 bonus cards. Your support is my driving force----@PJxiaoyu"
+echo "如需帮助可加入甜糖QQ群:739975071 或咨询QQ:898811295"
 
