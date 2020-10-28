@@ -6,6 +6,6 @@ echo $num;
 if [ $num -lt 1 ];then
  echo "[$d] ttnode is dead...restarting" >> /usr/node/log.log ;
  echo "[$d] ttnode is dead...restarting";
- mount -o,remount,rw /dev/sda1 /mnts
+ mount LABEL=272440 /mnts
  /usr/node/ttnode -p /mnts;
 fi
