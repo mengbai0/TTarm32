@@ -7,10 +7,6 @@ rm -f main.zip
 
 cd /root
 
-rm -rf /root/TTarm32-main
-
-cd /root
-
 rm -rf /usr/node
 
 cd /.
