@@ -1,6 +1,5 @@
 #!/bin/bash
 cd /.
-mount LABEL=272440 /mnts
 d=`date '+%F %T'`;
 num=`ps fax | grep '/ttnode' | egrep -v 'grep|echo|rpm|moni|guard' | wc -l`;
 echo $num;
