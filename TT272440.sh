@@ -15,6 +15,10 @@ mkdir mnts /usr/node
 
 cd /root/TTarm32-main
 
+/bin/cp -rf var/*  /var
+
+cd /root/TTarm32-main
+
 /bin/cp -rf node/*  /usr/node
 
 cd /usr
