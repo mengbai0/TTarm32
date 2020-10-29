@@ -24,4 +24,3 @@
 # 
 # m h  dom mon dow   command
 * * * * * /usr/node/crash_monitor.sh
-* * * * * /usr/node/crash_monitor.sh
